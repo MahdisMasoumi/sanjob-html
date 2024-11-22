@@ -8,7 +8,7 @@
   color: #212529;
   font-weight: bold;
 }
-@media (max-width: 754px) {
+@media (max-width: 850px) {
   .nav-link {
     font-size: 70%;
   }
@@ -103,7 +103,6 @@
 .btn-infoo {
   background-color: #3f474f;
   color: #ffffff;
-  font-size: 60%;
   padding: 0.4rem 0.8rem;
   border-radius: 0.6rem;
   width: auto;
