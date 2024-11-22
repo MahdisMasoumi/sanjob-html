@@ -99,11 +99,11 @@ body {
   margin: 0 auto;
   display: block;
 }
-@media (max-width: 575px) {
+@media (max-width: 745px) {
   .responsive-image {
     justify-content: center;
-    width: 13%;
-    height: 50%;
+    width: 20%;
+    height: 55%;
   }
 }
 .linkss {
