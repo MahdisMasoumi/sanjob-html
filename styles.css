@@ -99,7 +99,7 @@ body {
   margin: 0 auto;
   display: block;
 }
-@media (max-width: 745px) {
+@media (max-width: 754px) {
   .responsive-image {
     justify-content: center;
     width: 20%;
@@ -153,7 +153,7 @@ body {
   width: 100%;
   z-index: 1000;
 }
-@media (max-width: 745px) {
+@media (max-width: 754px) {
   .footer {
     position: relative;
   }
