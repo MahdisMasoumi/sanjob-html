@@ -153,16 +153,12 @@ body {
   width: 100%;
   z-index: 1000;
 }
-@media (max-width: 575px) {
+@media (max-width: 745px) {
   .footer {
     position: relative;
   }
 }
-@media (max-height: 700px) {
-  .footer {
-    position: relative;
-  }
-}
+
 .copyright {
   font-size: 60%;
 }
