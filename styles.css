@@ -2,7 +2,11 @@
   text-align: center;
   width: auto;
 }
-
+@media (max-width: 850px) {
+  .mob {
+    margin-top: 2rem !important;
+  }
+}
 .nav-link {
   font-size: 110%;
   color: #212529;
