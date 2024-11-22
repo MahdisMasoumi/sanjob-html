@@ -72,9 +72,9 @@ body {
 
 .searchbox {
   width: 90%;
-  font-size: 90%;
+  font-size: 100%;
   color: #1f221b;
-  background-size: 11px 11px;
+  background-size: 15px 15px;
   background-image: url("assets/icon.png");
   background-repeat: no-repeat;
   background-position: 8px center;
