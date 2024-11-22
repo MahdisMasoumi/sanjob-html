@@ -61,6 +61,7 @@
 }
 
 .searchbox {
+  width: 100%;
   font-size: 68%;
   color: #1f221b;
   background-size: 11px 11px;
@@ -69,7 +70,6 @@
   background-position: 8px center;
   padding-left: 1.55rem;
   height: 1.4rem;
-  width: 84%;
   border: #1f221b solid 1px;
   border-radius: 0.3rem;
   margin-top: 2rem;
