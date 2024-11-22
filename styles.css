@@ -5,10 +5,10 @@
 
 .nav-link {
   color: #212529;
-  font-size: 65%;
+  font-size: 80%;
   font-weight: bold;
 }
-@media (max-width: 575px) {
+@media (max-width: 754px) {
   .nav-link {
     font-size: 55%;
   }
@@ -26,6 +26,7 @@
 @media (max-width: 575px) {
   .about-page {
     padding: 1.5rem;
+    margin-top: 1rem !important;
   }
 }
 .logo {
