@@ -101,6 +101,7 @@
   text-decoration: none;
 }
 .btn-infoo {
+  font-size: 90%;
   background-color: #3f474f;
   color: #ffffff;
   padding: 0.4rem 0.8rem;
