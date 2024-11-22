@@ -17,7 +17,7 @@ body {
   color: #212529;
   font-weight: bold;
 }
-@media (max-width: 850px) {
+@media (max-width: 720px) {
   .nav-link {
     font-size: 70%;
   }
@@ -99,7 +99,7 @@ body {
   margin: 0 auto;
   display: block;
 }
-@media (max-width: 720px) {
+@media (max-width: 767px) {
   .responsive-image {
     justify-content: center;
     width: 20%;
