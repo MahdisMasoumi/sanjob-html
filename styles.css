@@ -52,7 +52,7 @@
 }
 
 .logo img {
-  width: 32%;
+  width: 50%;
   height: auto;
 }
 @media (max-width: 575px) {
@@ -66,8 +66,8 @@
 }
 
 .searchbox {
-  width: 100%;
-  font-size: 68%;
+  width: 900%;
+  font-size: 90%;
   color: #1f221b;
   background-size: 11px 11px;
   background-image: url("assets/icon.png");
@@ -76,7 +76,7 @@
   padding-left: 1.55rem;
   height: 2rem;
   border: #1f221b solid 1px;
-  border-radius: 0.3rem;
+  border-radius: 0.5rem;
   margin-top: 2rem;
   margin-bottom: 5rem;
 }
@@ -171,7 +171,7 @@
   }
 }
 .footer .links {
-  width: 3.5%;
+  width: 3%;
   margin: 0 8px;
   display: inline-block;
 }
