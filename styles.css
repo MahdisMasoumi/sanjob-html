@@ -4,7 +4,7 @@
 }
 
 .nav-link {
-  font-size: 120%;
+  font-size: 110%;
   color: #212529;
   font-weight: bold;
 }
@@ -126,9 +126,9 @@
   font-size: 70%;
 }
 
-@media (max-width: 754px) {
+@media (max-width: 900px) {
   .btn-infoo {
-    font-size: 50%;
+    font-size: 60%;
     padding: 0.3rem;
     max-width: 100px;
     margin: 15px auto;
