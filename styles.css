@@ -19,7 +19,7 @@ body {
 }
 @media (max-width: 767px) {
   .nav-link {
-    font-size: 70%;
+    font-size: 65%;
   }
 }
 .nav-link.active,
@@ -62,7 +62,7 @@ body {
 }
 @media (max-width: 720px) {
   .logo img {
-    width: 28%;
+    width: 30%;
     margin-top: 1rem;
   }
 }
@@ -100,6 +100,13 @@ body {
   display: block;
 }
 @media (max-width: 767px) {
+  .responsive-image {
+    justify-content: center;
+    width: 18%;
+    height: 55%;
+  }
+}
+@media (max-width: 540px) {
   .responsive-image {
     justify-content: center;
     width: 20%;
