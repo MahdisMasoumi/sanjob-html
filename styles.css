@@ -72,7 +72,7 @@ body {
 
 .searchbox {
   width: 90%;
-  font-size: 16px; /* Set font-size to 16px to prevent mobile zoom */
+  font-size: 16px;
   color: #1f221b;
   background-size: 15px 15px;
   background-image: url("assets/icon.png");
