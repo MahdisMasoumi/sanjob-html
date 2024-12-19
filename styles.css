@@ -4,15 +4,10 @@ body {
   color: black;
   margin: 0;
   padding: 0;
-  height: 100%; /* Ensure full viewport height */
   display: flex;
   flex-direction: column;
 }
-.main-content {
-  flex: 1; /* Grow to fill space */
-  min-height: calc(100vh - 80px); /* Adjust 80px to footer height */
-  background-color: rgb(248, 249, 250); /* Same as your current background */
-}
+
 .navbar-toggler {
   border: none;
   outline: none;
@@ -100,8 +95,6 @@ body {
   height: 2.5rem;
   border: #1f221b solid 1px;
   border-radius: 1.5rem;
-  margin-top: 2rem;
-  margin-bottom: 5rem;
 }
 @media (max-width: 767px) {
   .searchbox {
@@ -111,7 +104,7 @@ body {
 }
 
 .responsive-image {
-  width: 55%;
+  width: 49%;
   height: 62%;
   margin: 0 auto;
   display: block;
@@ -183,8 +176,9 @@ body {
   bottom: 0;
   width: 100%;
   z-index: 1000;
+  height: 100px;
 }
-@media (max-width: 1200px) {
+@media (max-width: 2000px) {
   .footer {
     position: relative;
   }
