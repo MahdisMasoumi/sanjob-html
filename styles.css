@@ -87,9 +87,9 @@ body {
   background-repeat: no-repeat;
   background-position: 8px center;
   padding-left: 2rem;
-  height: 2rem;
+  height: 2.5rem;
   border: #1f221b solid 1px;
-  border-radius: 0.7rem;
+  border-radius: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 5rem;
 }
@@ -147,6 +147,13 @@ body {
   font-weight: 400;
   margin-bottom: 0;
   font-size: 70%;
+}
+.text {
+  padding-top: 0.5rem;
+  font-weight: 600;
+  margin-bottom: 0;
+  font-size: 70%;
+  color: #222429;
 }
 
 @media (max-width: 767px) {
