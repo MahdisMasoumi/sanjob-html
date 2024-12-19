@@ -38,7 +38,7 @@ body {
 .about-page {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0rem 7rem;
+  padding: 0rem 2rem;
 }
 
 @media (max-width: 767px) {
@@ -124,11 +124,11 @@ body {
   text-decoration: none;
 }
 .btn-infoo {
-  font-size: 90%;
-  background-color: #3f474f;
+  font-size: 100%;
+  background-color: #31373d;
   color: #ffffff;
-  padding: 0rem 1.5rem;
-  border-radius: 0.6rem;
+  padding: 0.1rem 1.5rem;
+  border-radius: 1rem;
   width: auto;
   max-width: 200px;
   margin: 0 auto;
@@ -143,14 +143,9 @@ body {
   background-color: #222429;
 }
 
-.btn-infoo p {
-  font-weight: 400;
-  margin-bottom: 0;
-  font-size: 70%;
-}
 .text {
   font-weight: 600;
-  font-size: 75%;
+  font-size: 80%;
   color: #222429;
 }
 
