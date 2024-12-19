@@ -70,7 +70,7 @@ body {
 }
 
 .logo img {
-  width: 32%;
+  width: 30%;
   height: auto;
 }
 @media (max-width: 720px) {
@@ -105,7 +105,7 @@ body {
 
 .responsive-image {
   width: 49%;
-  height: 62%;
+  height: 58%;
   margin: 0 auto;
   display: block;
 }
@@ -177,6 +177,11 @@ body {
   width: 100%;
   z-index: 1000;
   height: 100px;
+}
+@media (max-height: 767px) {
+  .footer {
+    position: relative;
+  }
 }
 @media (max-width: 2000px) {
   .footer {
