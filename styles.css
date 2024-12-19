@@ -161,8 +161,8 @@ body {
   }
 }
 .footer {
-  margin-top: 10rem;
-  position: static;
+  margin-top: 10rem !important;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
