@@ -26,13 +26,13 @@ body {
   }
 }
 .nav-link {
-  font-size: 105%;
+  font-size: 100%;
   color: #212529;
   font-weight: bold;
 }
 @media (max-width: 767px) {
   .nav-link {
-    font-size: 65%;
+    font-size: 70%;
   }
 }
 .nav-link.active,
@@ -42,13 +42,12 @@ body {
 .about-page {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 4rem 7rem;
+  padding: 0rem 7rem;
 }
 
 @media (max-width: 767px) {
   .about-page {
     padding: 1.5rem;
-    margin-top: 1rem !important;
   }
 }
 .logo {
@@ -70,7 +69,7 @@ body {
 }
 
 .logo img {
-  width: 30%;
+  width: 35%;
   height: auto;
 }
 @media (max-width: 720px) {
@@ -183,11 +182,11 @@ body {
     position: relative;
   }
 }
-@media (max-width: 2000px) {
+/* @media (max-width: 2000px) {
   .footer {
     position: relative;
   }
-}
+} */
 
 .copyright {
   font-size: 60%;
