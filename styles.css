@@ -167,11 +167,11 @@ body {
   width: 100%;
   z-index: 1000;
 }
-@media (max-width: 1200px) {
+/* @media (max-width: 1200px) {
   .footer {
     position: relative;
   }
-}
+} */
 
 .copyright {
   font-size: 60%;
