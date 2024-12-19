@@ -88,7 +88,7 @@ body {
   background-position: 8px center;
   padding-left: 2rem;
   height: 2.5rem;
-  border: #1f221b solid 1px;
+  border: #ced4da solid 1px;
   border-radius: 1.5rem;
 }
 @media (max-width: 767px) {
