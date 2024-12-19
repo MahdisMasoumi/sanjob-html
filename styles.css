@@ -102,7 +102,7 @@ body {
 
 .responsive-image {
   width: 42%;
-  height: 50%;
+  height: 52%;
   margin: 0 auto;
   display: block;
 }
@@ -125,7 +125,7 @@ body {
 }
 .btn-infoo {
   font-size: 100%;
-  background-color: #31373d;
+  background-color: #2f2f2f;
   color: #ffffff;
   padding: 0.1rem 1.5rem;
   border-radius: 1rem;
@@ -134,13 +134,15 @@ body {
   margin: 0 auto;
   font-weight: bolder;
   display: block;
+
+  transition: background-color 0.5s ease;
 }
 
 .btn-infoo:hover {
   color: #ffffff;
   cursor: pointer;
   font-weight: bolder;
-  background-color: #222429;
+  background-color: #1a1b1b;
 }
 
 .text {
@@ -194,6 +196,11 @@ body {
   width: 2.8%;
   margin: 0 8px;
   display: inline-block;
+  opacity: 0.8;
+  transition: opacity 0.5s ease;
+}
+.footer .links:hover {
+  opacity: 1;
 }
 
 @media (max-width: 767px) {
